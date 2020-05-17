@@ -1,0 +1,43 @@
+*/*aspectos generales*/{
+margin:0px;
+padding:0px;
+font-family:arial, helvetica, verdana;
+
+}
+body{
+	background: #231f20;
+}
+h2,p{
+	margin: 15px;
+	padding: 10px;
+}
+
+header, .main, .article{
+	width: 100%;
+	max-width: 95%;
+	margin: auto;
+}
+.video{
+	background: #c41f3f;
+	width: 95%;
+	margin: 10px 10px;
+	float: left;
+	border-radius: 10px;
+	
+}
+
+ .anni{
+	border-radius: 10px;
+	margin: 20px; }
+.texto{
+	background: #414143;
+	width: 40%;
+	margin: 20px 20px;
+	float: left;
+	border-radius: 10px
+}
+h2{
+    color: white
+}
+p{
+    color: gray
